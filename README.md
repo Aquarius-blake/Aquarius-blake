@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aquarius-blake
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning vb. Net and dart
-- 💞️ I’m looking to collaborate on mobile app development
+- 💞️ I’m looking to collaborate on mobile app development and desktop app development 
 - 📫 How to reach me ...
 
 <!---
