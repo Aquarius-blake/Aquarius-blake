@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on mobile app development and Desktop app development 
 - 📫 How to reach me ...
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Aquarius-blake)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Aquarius-blake&layout=compact)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Aquarius-blake&theme=highcontrast&show_icons=true&count_private=true)
 
