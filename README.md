@@ -1,14 +1,14 @@
-- 👋 Hi, I’m @Aquarius-blake
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning vb. Net and Dart with Flutter Framework
-- 💞️ I’m looking to collaborate on mobile app development and Desktop app development 
-- 📫 How to reach me ...
+# Hi, I'm john Doe! 👋
+## 🚀 About Me
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Aquarius-blake&layout=compact)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=Aquarius-blake&theme=highcontrast&show_icons=true&count_private=true)
-
-<!---
-Aquarius-blake/Aquarius-blake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a full stack developer...
+    
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=g3root" alt="g3root" />
+</a>
+</p>
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=g3root&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="g3root stats card" /></p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g3root&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="g3root stats card" /></p>
