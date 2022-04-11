@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **blakeind72@gmail.com**
 
-- ⚡ Fun fact **Get to know me well enough and I might make your heart Flutter**
+- ⚡ Fun fact **Get to know me well enough and I might make your heart Flutter as well 😜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
