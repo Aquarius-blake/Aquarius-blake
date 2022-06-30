@@ -27,3 +27,6 @@
 
 
 
+<a href="https://github.com/Aquarius-blake">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aquarius-blake&layout=compact&theme=dracula&count_private=true&langs_count=10" />
+</a> 
