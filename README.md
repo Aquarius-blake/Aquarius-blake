@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **Get to know me well enough and I might make your heart Flutter**
 
-<img src="https://github.com/Aquarius-blake/forum3/blob/master/Assets/hac.jpg" alt="image">
 
 <h3 align="left">Random Joke Generator:</h3>
 
