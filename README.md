@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aquarius-blake</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aquarius-blake&label=Profile%20views&color=0e75b6&style=flat" alt="aquarius-blake" /> </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thank+You+for+Visiting;Second+line+of+text)](https://git.io/typing-svg)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aquarius-blake" alt="aquarius-blake" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, .Net and other Frameworks**
