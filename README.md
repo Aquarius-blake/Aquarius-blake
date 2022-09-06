@@ -16,7 +16,6 @@
 - ⚡ Fun fact **Get to know me well enough and I might make your heart Flutter**
 
 
-
 <h3 align="left">Random Joke Generator:</h3>
 
 <!-- Markdown -->
@@ -33,6 +32,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aquarius-blake&show_icons=true&locale=en&layout=compact&count_private=true&langs_count=15&theme=dark" alt="aquarius-blake" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aquarius-blake&show_icons=true&locale=en&theme=dark" alt="aquarius-blake" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aquarius-blake&theme=dark" alt="aquarius-blake" /></p>
 
