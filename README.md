@@ -5,6 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thank+You+for+Visiting!+You+Are+Welcome;Hope+We+Can+Work+Together+Sometime...&pause=1000&width=600)](https://git.io/typing-svg)
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aquarius-blake&theme=alduin" alt="aquarius-blake" /></a> </p>
 
 
@@ -33,6 +34,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aquarius-blake&show_icons=true&locale=en&layout=compact&count_private=true&langs_count=15&theme=dark" alt="aquarius-blake" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aquarius-blake&show_icons=true&locale=en&theme=dark" alt="aquarius-blake" /></p>
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aquarius-blake&theme=dark" alt="aquarius-blake" /></p>
