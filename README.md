@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aquarius-blake&theme=alduin" alt="aquarius-blake" /></a> </p>
 
 
+
 - 🌱 I’m currently learning **Flutter, React , React Native , .Net and other Frameworks**
 
 - 👯 I’m looking to collaborate on **Mobile App Developments, Desktop App Developments and Web App Developments**
@@ -32,6 +33,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aquarius-blake&show_icons=true&locale=en&layout=compact&count_private=true&langs_count=15&theme=dark" alt="aquarius-blake" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aquarius-blake&show_icons=true&locale=en&theme=dark" alt="aquarius-blake" /></p>
 
 
@@ -40,4 +42,5 @@
 
 <!--<a href="http://www.github.com/Aquarius-blake"><img src="https://activity-graph.herokuapp.com/graph?username=Aquarius-blake&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 -->
+
 
