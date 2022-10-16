@@ -18,7 +18,6 @@
 
 <h3 align="left">Random Joke Generator:</h3>
 
-
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
 
