@@ -39,6 +39,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aquarius-blake&theme=dark" alt="aquarius-blake" /></p>
 
+### This week I spent my time on  <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
+
+[![Aquarius-blake](https://github-readme-stats.vercel.app/api/wakatime?username=Aquarius-blake&theme=radical)](https://github.com/anuraghazra/github-readme-stats
+
+
 <!--<a href="http://www.github.com/Aquarius-blake"><img src="https://activity-graph.herokuapp.com/graph?username=Aquarius-blake&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 -->
 
