@@ -34,12 +34,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aquarius-blake&show_icons=true&locale=en&theme=dark" alt="aquarius-blake" /></p>
 
-
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aquarius-blake&theme=dark" alt="aquarius-blake" /></p>
 
-
+<!--
 ### This week I spent my time on  <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 [![Aquarius-blake](https://github-readme-stats.vercel.app/api/wakatime?username=Aquariusblake&theme=radical)
 
