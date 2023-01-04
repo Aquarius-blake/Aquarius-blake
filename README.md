@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **blakeind72@gmail.com**
 
-- ⚡ Fun fact **Get to know me well enough and I might make your heart Flutter**
+- ⚡ Fun fact **Get to know me well enough and I might make your heart Flutter😜**
 
 
 <h3 align="left">Random Joke Generator:</h3>
