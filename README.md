@@ -44,4 +44,5 @@
 <a href="http://www.github.com/Aquarius-blake"><img src="https://activity-graph.herokuapp.com/graph?username=Aquarius-blake&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 -->
 
+<p><img align="center" src="https://github.com/Aquarius-blake/Aquarius-blake/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Aquarius Blake" ></p>
 
