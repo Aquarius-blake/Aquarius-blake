@@ -15,13 +15,14 @@
 
 - ⚡ Fun fact **Get to know me well enough and I might make your heart Flutter😜**
 
+<img align="right" alt="GIF" src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" width="350" />
+
 
 <h3 align="left">Random Joke Generator:</h3>
 
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
 
-<img align="right" alt="GIF" src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" width="350" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
