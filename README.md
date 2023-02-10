@@ -21,6 +21,8 @@
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
 
+<img align="right" alt="GIF" src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" width="350" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aquariusblake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aquariusblake" height="30" width="40" /></a>
