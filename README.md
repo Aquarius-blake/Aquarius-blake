@@ -3,8 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thank+You+for+Visiting!+You+Are+Welcome;Hope+We+Can+Work+Together+Sometime...&pause=1000&width=600)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aquarius-blake&theme=alduin" alt="aquarius-blake" /></a> </p>
-
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aquarius-blake&theme=alduin" alt="aquarius-blake" /></a> </p>
+-->
 
 
 - 🌱 I’m currently learning **Flutter, React , React Native , .Net and other Frameworks**
@@ -16,7 +16,6 @@
 - ⚡ Fun fact **Get to know me well enough and I might make your heart Flutter😜**
 
 <img align="right" alt="GIF" src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" width="350" />
-
 
 <h3 align="left">Random Joke Generator:</h3>
 
