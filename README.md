@@ -15,10 +15,11 @@
 
 - ⚡ Fun fact **Get to know me well enough and I might make your heart Flutter😜**
 
+<!--
 ### Support Me
 
 <a href="https://www.paypal.com/donate/?hosted_button_id=FRQXF3ENFDX32"><img src="https://github.com/Aquarius-blake/Images/blob/main/Profile/img/coffee.png" width="200" /></a>
-
+-->
 
 <img align="right" alt="GIF" src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" width="350" />
 
