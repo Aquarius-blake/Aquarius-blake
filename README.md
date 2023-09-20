@@ -7,7 +7,7 @@
 -->
 
 
-- 🌱 I’m currently learning **Flutter, React , React Native , .Net and other Frameworks**
+- 🌱 I’m currently learning **Flutter, React , React Native , Redux , .Net and other Frameworks**
 
 - 👯 I’m looking to collaborate on **Mobile App Developments, Desktop App Developments and Web App Developments**
 
