@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Mobile App Developments, Desktop App Developments and Web App Developments**
 
-- 📫 How to reach me **blakeind72@gmail.com**
+- 📫 How to reach me **blakeind72@gmail.com** or Visit my [Portfolio site](https://aquarius-blake.github.io/portfolio/)
 
 - ⚡ Fun fact **Get to know me well enough and I might make your heart Flutter😜**
 
