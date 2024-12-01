@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter, React , React Native , Redux , .Net and other Frameworks and a bit of AI Modelling**
 
-- 👯 I’m looking to collaborate on **Mobile App Developments,AI Development, Desktop App Developments and Web App Developments**
+- 👯 I’m looking to collaborate on **Mobile App Developments, AI Development, Desktop App Developments and Web App Developments**
 
 - 📫 How to reach me **blakeind72@gmail.com** or Visit my [Portfolio site](https://aquarius-blake.github.io/portfolio/)
 
