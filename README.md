@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **blakeind72@gmail.com** or Visit my [Portfolio site](https://aquarius-blake.github.io/portfolio/)
 
-- ⚡ Fun fact **Get to know me well enough and I might make your heart Flutter😜**
+- ⚡ Fun fact **Get to know me well enough and I might just make your heart Flutter😜**
 
 
 ### Support Me
