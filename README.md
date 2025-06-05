@@ -17,6 +17,11 @@
 - ⚡ Fun fact **Get to know me well enough and I might just make your heart Flutter😜**
 
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=aquarius-blake/aquarius-blake@github)](https://gitads.dev/v1/ad-track?source=aquarius-blake/aquarius-blake@github)
+
+
+
 ### Support Me
 
 <a href="https://www.paypal.com/donate/?hosted_button_id=FRQXF3ENFDX32"><img src="https://github.com/Aquarius-blake/Images/blob/main/Profile/img/coffee.png" width="200" height="75" /></a>
